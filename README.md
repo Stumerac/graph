@@ -1,2 +1,2 @@
 # graph
-graph implementation
+A simple implementation of a graph.
